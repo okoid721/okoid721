@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm King Dave</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">I am a passionate JavaScript software developer with a strong interest in building innovative and impactful solutions. With several years of experience in web development, I specialize in frontend and backend technologies including React.js, Node.js, and MongoDB. I am dedicated to continuous learning and staying updated with the latest trends in technology. Outside of coding, I enjoy gaming, reading, napping😜, and exploring new cuisines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okoid721&label=Profile%20views&color=0e75b6&style=flat" alt="okoid721" /> </p>
 
